@@ -1,7 +1,7 @@
 # WordPress-Shell-Upload
 Authenticated shell upload
 
-1. Authenticates as an Admin user using legitimate credentials that a user would input into the script.
+1. Authenticates as an Admin user using credentials that a user would input into the script.
 2. Finds currently in use theme automatically.
 3. Edits the 404.php page associated with the theme to be a simple web shell
 
