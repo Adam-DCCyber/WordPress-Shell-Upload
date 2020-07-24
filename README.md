@@ -9,4 +9,4 @@ Changing the host, username, and password variable is necessary. You will more t
 
 Obviously each installation of WordPress can and will be different so this script may not include those intricacies.
 
-I do not condone the use of the script for malicious or illegal activity.
+Script should not be used for malicious or illegal activity.
